@@ -4,8 +4,8 @@ import shapeOne from "../../assets/shape-1.png";
 import shapeTwo from "../../assets/shape-2.png";
 
 import { FaTwitter, FaDribbble, FaBehance } from "react-icons/fa";
-import cv from "../../assets/cv.pdf"
-import "../home/home.css"
+import cv from "../../assets/CV.pdf"
+import "../home/Home.css"
 
 const Home = () => {
   return (
