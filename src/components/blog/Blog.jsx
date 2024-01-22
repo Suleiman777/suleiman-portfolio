@@ -1,8 +1,8 @@
 import React from "react";
 import { FaArrowRight } from "react-icons/fa";
-import Blog1 from "../../assets/Blog1.webp";
-import Blog2 from "../../assets/Blog2.webp";
-import Blog3 from "../../assets/Blog1.webp";
+import Blog1 from "../../assets/blog1.webp";
+import Blog2 from "../../assets/blog2.webp";
+import Blog3 from "../../assets/blog1.webp";
 import shapeOne from "../../assets/shape-1.png";
 import "./blog.css";
 
